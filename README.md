@@ -32,4 +32,4 @@ const myTechJourney = {
 *Feel free to explore my repositories and join me on this learning adventure! Any tips or suggestions are always welcome!* 🌟
 
 ---
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+
